@@ -1,0 +1,20 @@
+.game{
+    
+    text-align: center;
+    
+}
+
+body{
+    background-image: url("./assets/Light-Blue-Simple-Gradient-Background-Graphics-3307511-1.jpg");
+    background-size: cover;
+}
+
+
+.image2{
+    height: 200px;
+    width: 200px;
+    display: inline;
+    border-radius: 50%;
+}
+
+
